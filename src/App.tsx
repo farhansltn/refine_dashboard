@@ -34,7 +34,6 @@ const wsClient = createClient({ url: WS_URL });
 function App() {
   return (
     <BrowserRouter>
-      <GitHubBanner />
             <AntdApp>
               <DevtoolsProvider>
                 <Refine
