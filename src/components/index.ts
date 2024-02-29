@@ -18,6 +18,7 @@ export {
     LatestActivitiesSkeleton,
     LatestActivities
 }
+export * from '@/utilities/date/get-date-color' 
 export * from './tags/user-tag'
 export * from './text'
 export * from './accordion'
